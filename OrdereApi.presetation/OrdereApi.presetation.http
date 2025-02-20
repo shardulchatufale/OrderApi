@@ -1,0 +1,6 @@
+@OrdereApi.presetation_HostAddress = http://localhost:5130
+
+GET {{OrdereApi.presetation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

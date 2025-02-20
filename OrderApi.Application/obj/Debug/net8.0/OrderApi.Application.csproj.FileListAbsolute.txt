@@ -1,0 +1,17 @@
+C:\Users\ShardulC\Desktop\New folder (3)\DemoEcommerce.OrderApi\OrderApi.Application\bin\Debug\net8.0\OrderApi.Application.deps.json
+C:\Users\ShardulC\Desktop\New folder (3)\DemoEcommerce.OrderApi\OrderApi.Application\bin\Debug\net8.0\OrderApi.Application.dll
+C:\Users\ShardulC\Desktop\New folder (3)\DemoEcommerce.OrderApi\OrderApi.Application\bin\Debug\net8.0\OrderApi.Application.pdb
+C:\Users\ShardulC\Desktop\New folder (3)\DemoEcommerce.OrderApi\OrderApi.Application\obj\Debug\net8.0\OrderApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShardulC\Desktop\New folder (3)\DemoEcommerce.OrderApi\OrderApi.Application\obj\Debug\net8.0\OrderApi.Application.AssemblyInfoInputs.cache
+C:\Users\ShardulC\Desktop\New folder (3)\DemoEcommerce.OrderApi\OrderApi.Application\obj\Debug\net8.0\OrderApi.Application.AssemblyInfo.cs
+C:\Users\ShardulC\Desktop\New folder (3)\DemoEcommerce.OrderApi\OrderApi.Application\obj\Debug\net8.0\OrderApi.Application.csproj.CoreCompileInputs.cache
+C:\Users\ShardulC\Desktop\New folder (3)\DemoEcommerce.OrderApi\OrderApi.Application\obj\Debug\net8.0\OrderApi.Application.dll
+C:\Users\ShardulC\Desktop\New folder (3)\DemoEcommerce.OrderApi\OrderApi.Application\obj\Debug\net8.0\refint\OrderApi.Application.dll
+C:\Users\ShardulC\Desktop\New folder (3)\DemoEcommerce.OrderApi\OrderApi.Application\obj\Debug\net8.0\OrderApi.Application.pdb
+C:\Users\ShardulC\Desktop\New folder (3)\DemoEcommerce.OrderApi\OrderApi.Application\obj\Debug\net8.0\ref\OrderApi.Application.dll
+C:\Users\ShardulC\Desktop\New folder (3)\DemoEcommerce.OrderApi\OrderApi.Application\bin\Debug\net8.0\ecommerce.sharedLibrary.dll
+C:\Users\ShardulC\Desktop\New folder (3)\DemoEcommerce.OrderApi\OrderApi.Application\bin\Debug\net8.0\OrderApi.Domain.dll
+C:\Users\ShardulC\Desktop\New folder (3)\DemoEcommerce.OrderApi\OrderApi.Application\bin\Debug\net8.0\ecommerce.sharedLibrary.pdb
+C:\Users\ShardulC\Desktop\New folder (3)\DemoEcommerce.OrderApi\OrderApi.Application\bin\Debug\net8.0\OrderApi.Domain.pdb
+C:\Users\ShardulC\Desktop\New folder (3)\DemoEcommerce.OrderApi\OrderApi.Application\obj\Debug\net8.0\OrderApi.Application.csproj.AssemblyReference.cache
+C:\Users\ShardulC\Desktop\New folder (3)\DemoEcommerce.OrderApi\OrderApi.Application\obj\Debug\net8.0\OrderApi.A1672EEC.Up2Date
