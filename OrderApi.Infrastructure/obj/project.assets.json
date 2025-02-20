@@ -4748,11 +4748,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ShardulC\\Desktop\\New folder (3)\\DemoEcommerce.OrderApi\\OrderApi.Infrastructure\\OrderApi.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\ShardulC\\Desktop\\Order Api\\OrderApi\\OrderApi.Infrastructure\\OrderApi.Infrastructure.csproj",
       "projectName": "OrderApi.Infrastructure",
-      "projectPath": "C:\\Users\\ShardulC\\Desktop\\New folder (3)\\DemoEcommerce.OrderApi\\OrderApi.Infrastructure\\OrderApi.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\ShardulC\\Desktop\\Order Api\\OrderApi\\OrderApi.Infrastructure\\OrderApi.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\ShardulC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ShardulC\\Desktop\\New folder (3)\\DemoEcommerce.OrderApi\\OrderApi.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\ShardulC\\Desktop\\Order Api\\OrderApi\\OrderApi.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4773,8 +4773,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ShardulC\\Desktop\\New folder (3)\\DemoEcommerce.OrderApi\\OrderApi.Application\\OrderApi.Application.csproj": {
-              "projectPath": "C:\\Users\\ShardulC\\Desktop\\New folder (3)\\DemoEcommerce.OrderApi\\OrderApi.Application\\OrderApi.Application.csproj"
+            "C:\\Users\\ShardulC\\Desktop\\Order Api\\OrderApi\\OrderApi.Application\\OrderApi.Application.csproj": {
+              "projectPath": "C:\\Users\\ShardulC\\Desktop\\Order Api\\OrderApi\\OrderApi.Application\\OrderApi.Application.csproj"
             }
           }
         }

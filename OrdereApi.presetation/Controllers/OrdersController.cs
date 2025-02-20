@@ -37,14 +37,6 @@ namespace OrderApi.presetation.Controllers
         }
 
 
-
-
-
-
-
-
-
-
         [HttpPost]
         public async Task<ActionResult<Response>> CreateOrder(OrderDTO orderDTO)
         {
@@ -76,8 +68,6 @@ namespace OrderApi.presetation.Controllers
             var response = await orderInterface.DeletAsync(order);
             return response.Flag ? Ok(response) : BadRequest(response);
         }
-
-
 
 
 

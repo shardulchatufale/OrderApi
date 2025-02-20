@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gLdAsb1NDt4=",
+  "dgSpecHash": "/4/jVS4tktU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ShardulC\\Desktop\\New folder (3)\\DemoEcommerce.OrderApi\\OrdereApi.presetation\\OrdereApi.presetation.csproj",
+  "projectFilePath": "C:\\Users\\ShardulC\\Desktop\\Order Api\\OrderApi\\OrdereApi.presetation\\OrdereApi.presetation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ShardulC\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ShardulC\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
