@@ -122,57 +122,5 @@
         "StatusCode": 200
       }
     ]
-  },
-  {
-    "ContainingType": "OrderApi.presetation.Controllers.OrdersController",
-    "Method": "GetClientOrder",
-    "RelativePath": "api/Orders/client/{clientId}",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "clientId",
-        "Type": "System.Int32",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "OrderApi.Application.DTOs.OrderDTO",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "OrderApi.presetation.Controllers.OrdersController",
-    "Method": "GetOrderDetail",
-    "RelativePath": "api/Orders/details/{orderId}",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "orderId",
-        "Type": "System.Int32",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "OrderApi.Application.DTOs.OrderDetailsDTO",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
   }
 ]

@@ -70,7 +70,7 @@ namespace OrderApi.presetation.Controllers
         }
 
 
-
+/*
         [HttpGet("client/{clientId:int}")]
         public async Task<ActionResult<OrderDTO>> GetClientOrder(int clientId)
         {
@@ -81,7 +81,6 @@ namespace OrderApi.presetation.Controllers
         }
 
 
-
         [HttpGet("details/{orderId:int}")]
         public async Task<ActionResult<OrderDetailsDTO>>GetOrderDetail(int orderId)
         {
@@ -89,6 +88,7 @@ namespace OrderApi.presetation.Controllers
             var OrderDetail = await orderServices.GetOrderDetails(orderId);
             return OrderDetail.OrderId > 0 ? Ok(OrderDetail) : NotFound("No orderFound");
         }
+*/
 
 
     }
