@@ -1,14 +1,9 @@
 ﻿using OrderApi.Application.DTOs;
 using OrderApi.Application.DTOs.Conversions;
 using OrderApi.Application.Interfaces;
-using Polly;
 using Polly.Registry;
-using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Net.Http.Json;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace OrderApi.Application.Services
 {
@@ -52,10 +47,10 @@ namespace OrderApi.Application.Services
 
         public async Task<IEnumerable<OrderDTO>> GetOrderByClientId(int clientId)
         {
-            var order = await orderInterface.GetOrderAsync(o => o.ClientId == clientId);
-            if (order.Any()) { return null; }
-           var (_, orders) = OrderConversions.FromEntity(null, order);
-            return orders!;
+            var orders = await orderInterface.GetOrderAsync(o => o.ClientId == clientId);
+            if (!orders.Any()) { return null; }
+           var (_, _orders) = OrderConversions.FromEntity(null, orders);
+            return _orders!;
         }
 
         

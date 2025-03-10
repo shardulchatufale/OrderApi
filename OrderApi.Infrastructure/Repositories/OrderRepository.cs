@@ -1,17 +1,12 @@
 ﻿using ecommerce.sharedLibrary.Logs;
 using ecommerce.sharedLibrary.Response;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.VisualBasic;
 using OrderApi.Application.Interfaces;
 using OrderApi.Domain.Entities;
 using OrderApi.Infrastructure.Data;
-using System;
-using System.Collections.Generic;
-using System.Formats.Asn1;
-using System.Linq;
+
 using System.Linq.Expressions;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace OrderApi.Infrastructure.Repositories
 {
@@ -42,7 +37,7 @@ namespace OrderApi.Infrastructure.Repositories
             {
                 var order = await FindByIdAsync(entity.Id);
                 if (order is null) { return new Response(false, "ID not found"); }
-                context.Orders.Remove(entity);
+                context.Orders.Remove(order);
                 await context.SaveChangesAsync();
                 return new Response(true, "Order is cancelled");
             }
@@ -58,8 +53,8 @@ namespace OrderApi.Infrastructure.Repositories
             try
             {
                 var order= await context.Orders!.FindAsync(id);
-                if (order is not null) { return order; }
-                return null!;
+                return order is not null ? order : null!;
+                
             }
             catch (Exception ex)
             {

@@ -5,11 +5,7 @@ using Microsoft.Extensions.DependencyInjection;
 using OrderApi.Application.Interfaces;
 using OrderApi.Infrastructure.Data;
 using OrderApi.Infrastructure.Repositories;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace OrderApi.Infrastructure.DependencyInjection
 {
@@ -24,7 +20,7 @@ namespace OrderApi.Infrastructure.DependencyInjection
         public static IApplicationBuilder UserInfrastructurePolicy(this IApplicationBuilder app)
         {
             SharedServiceContainer.UseSharedPolicies(app);
-            return app;
+            return app; 
         }
     }
 }
