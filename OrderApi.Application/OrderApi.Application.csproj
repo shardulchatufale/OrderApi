@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Ecommerse wesite\DemoECommerce.SharedLibrarySolution\ecommerce.sharedLibrary\ecommerce.sharedLibrary.csproj" />
+    <ProjectReference Include="..\ecommerce.sharedLibrary\ecommerce.sharedLibrary.csproj" />
     <ProjectReference Include="..\OrderApi.Domain\OrderApi.Domain.csproj" />
   </ItemGroup>
 

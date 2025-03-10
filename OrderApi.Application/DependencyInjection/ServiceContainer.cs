@@ -6,6 +6,7 @@ using Polly;
 using Polly.Retry;
 
 
+
 namespace OrderApi.Application.DependencyInjection
 {
     public static class ServiceContainer
@@ -28,7 +29,8 @@ namespace OrderApi.Application.DependencyInjection
                 OnRetry=args=>
                 {
                     string message=$"OnRetry,Attempt :{args.AttemptNumber} Outcome{args.Outcome}";
-                    LogException.LogToConsole(message);
+                   LogException.LogToConsole(message);
+                  
                     LogException.LogToDebugger(message);
                     return ValueTask.CompletedTask;
 

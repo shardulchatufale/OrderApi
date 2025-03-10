@@ -1,0 +1,43 @@
+C:\Users\ShardulC\Desktop\New folder (3)\DemoECommerce.SharedLibrarySolution\ecommerce.sharedLibrary\bin\Debug\net8.0\ecommerce.sharedLibrary.deps.json
+C:\Users\ShardulC\Desktop\New folder (3)\DemoECommerce.SharedLibrarySolution\ecommerce.sharedLibrary\bin\Debug\net8.0\ecommerce.sharedLibrary.runtimeconfig.json
+C:\Users\ShardulC\Desktop\New folder (3)\DemoECommerce.SharedLibrarySolution\ecommerce.sharedLibrary\bin\Debug\net8.0\ecommerce.sharedLibrary.dll
+C:\Users\ShardulC\Desktop\New folder (3)\DemoECommerce.SharedLibrarySolution\ecommerce.sharedLibrary\bin\Debug\net8.0\ecommerce.sharedLibrary.pdb
+C:\Users\ShardulC\Desktop\New folder (3)\DemoECommerce.SharedLibrarySolution\ecommerce.sharedLibrary\obj\Debug\net8.0\ecommerce.sharedLibrary.csproj.AssemblyReference.cache
+C:\Users\ShardulC\Desktop\New folder (3)\DemoECommerce.SharedLibrarySolution\ecommerce.sharedLibrary\obj\Debug\net8.0\ecommerce.sharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShardulC\Desktop\New folder (3)\DemoECommerce.SharedLibrarySolution\ecommerce.sharedLibrary\obj\Debug\net8.0\ecommerce.sharedLibrary.AssemblyInfoInputs.cache
+C:\Users\ShardulC\Desktop\New folder (3)\DemoECommerce.SharedLibrarySolution\ecommerce.sharedLibrary\obj\Debug\net8.0\ecommerce.sharedLibrary.AssemblyInfo.cs
+C:\Users\ShardulC\Desktop\New folder (3)\DemoECommerce.SharedLibrarySolution\ecommerce.sharedLibrary\obj\Debug\net8.0\ecommerce.sharedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ShardulC\Desktop\New folder (3)\DemoECommerce.SharedLibrarySolution\ecommerce.sharedLibrary\obj\Debug\net8.0\ecommerce.sharedLibrary.dll
+C:\Users\ShardulC\Desktop\New folder (3)\DemoECommerce.SharedLibrarySolution\ecommerce.sharedLibrary\obj\Debug\net8.0\refint\ecommerce.sharedLibrary.dll
+C:\Users\ShardulC\Desktop\New folder (3)\DemoECommerce.SharedLibrarySolution\ecommerce.sharedLibrary\obj\Debug\net8.0\ecommerce.sharedLibrary.pdb
+C:\Users\ShardulC\Desktop\New folder (3)\DemoECommerce.SharedLibrarySolution\ecommerce.sharedLibrary\obj\Debug\net8.0\ecommerce.sharedLibrary.genruntimeconfig.cache
+C:\Users\ShardulC\Desktop\New folder (3)\DemoECommerce.SharedLibrarySolution\ecommerce.sharedLibrary\obj\Debug\net8.0\ref\ecommerce.sharedLibrary.dll
+C:\Users\ShardulC\Desktop\Ecommerse wesite\DemoECommerce.SharedLibrarySolution\ecommerce.sharedLibrary\bin\Debug\net8.0\ecommerce.sharedLibrary.deps.json
+C:\Users\ShardulC\Desktop\Ecommerse wesite\DemoECommerce.SharedLibrarySolution\ecommerce.sharedLibrary\bin\Debug\net8.0\ecommerce.sharedLibrary.runtimeconfig.json
+C:\Users\ShardulC\Desktop\Ecommerse wesite\DemoECommerce.SharedLibrarySolution\ecommerce.sharedLibrary\bin\Debug\net8.0\ecommerce.sharedLibrary.dll
+C:\Users\ShardulC\Desktop\Ecommerse wesite\DemoECommerce.SharedLibrarySolution\ecommerce.sharedLibrary\bin\Debug\net8.0\ecommerce.sharedLibrary.pdb
+C:\Users\ShardulC\Desktop\Ecommerse wesite\DemoECommerce.SharedLibrarySolution\ecommerce.sharedLibrary\obj\Debug\net8.0\ecommerce.sharedLibrary.csproj.AssemblyReference.cache
+C:\Users\ShardulC\Desktop\Ecommerse wesite\DemoECommerce.SharedLibrarySolution\ecommerce.sharedLibrary\obj\Debug\net8.0\ecommerce.sharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShardulC\Desktop\Ecommerse wesite\DemoECommerce.SharedLibrarySolution\ecommerce.sharedLibrary\obj\Debug\net8.0\ecommerce.sharedLibrary.AssemblyInfoInputs.cache
+C:\Users\ShardulC\Desktop\Ecommerse wesite\DemoECommerce.SharedLibrarySolution\ecommerce.sharedLibrary\obj\Debug\net8.0\ecommerce.sharedLibrary.AssemblyInfo.cs
+C:\Users\ShardulC\Desktop\Ecommerse wesite\DemoECommerce.SharedLibrarySolution\ecommerce.sharedLibrary\obj\Debug\net8.0\ecommerce.sharedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ShardulC\Desktop\Ecommerse wesite\DemoECommerce.SharedLibrarySolution\ecommerce.sharedLibrary\obj\Debug\net8.0\ecommerce.sharedLibrary.dll
+C:\Users\ShardulC\Desktop\Ecommerse wesite\DemoECommerce.SharedLibrarySolution\ecommerce.sharedLibrary\obj\Debug\net8.0\refint\ecommerce.sharedLibrary.dll
+C:\Users\ShardulC\Desktop\Ecommerse wesite\DemoECommerce.SharedLibrarySolution\ecommerce.sharedLibrary\obj\Debug\net8.0\ecommerce.sharedLibrary.pdb
+C:\Users\ShardulC\Desktop\Ecommerse wesite\DemoECommerce.SharedLibrarySolution\ecommerce.sharedLibrary\obj\Debug\net8.0\ecommerce.sharedLibrary.genruntimeconfig.cache
+C:\Users\ShardulC\Desktop\Ecommerse wesite\DemoECommerce.SharedLibrarySolution\ecommerce.sharedLibrary\obj\Debug\net8.0\ref\ecommerce.sharedLibrary.dll
+C:\Users\ShardulC\Desktop\Order Api\OrderApi\ecommerce.sharedLibrary\bin\Debug\net8.0\ecommerce.sharedLibrary.deps.json
+C:\Users\ShardulC\Desktop\Order Api\OrderApi\ecommerce.sharedLibrary\bin\Debug\net8.0\ecommerce.sharedLibrary.runtimeconfig.json
+C:\Users\ShardulC\Desktop\Order Api\OrderApi\ecommerce.sharedLibrary\bin\Debug\net8.0\ecommerce.sharedLibrary.dll
+C:\Users\ShardulC\Desktop\Order Api\OrderApi\ecommerce.sharedLibrary\bin\Debug\net8.0\ecommerce.sharedLibrary.pdb
+C:\Users\ShardulC\Desktop\Order Api\OrderApi\ecommerce.sharedLibrary\obj\Debug\net8.0\ecommerce.sharedLibrary.csproj.AssemblyReference.cache
+C:\Users\ShardulC\Desktop\Order Api\OrderApi\ecommerce.sharedLibrary\obj\Debug\net8.0\ecommerce.sharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShardulC\Desktop\Order Api\OrderApi\ecommerce.sharedLibrary\obj\Debug\net8.0\ecommerce.sharedLibrary.AssemblyInfoInputs.cache
+C:\Users\ShardulC\Desktop\Order Api\OrderApi\ecommerce.sharedLibrary\obj\Debug\net8.0\ecommerce.sharedLibrary.AssemblyInfo.cs
+C:\Users\ShardulC\Desktop\Order Api\OrderApi\ecommerce.sharedLibrary\obj\Debug\net8.0\ecommerce.sharedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ShardulC\Desktop\Order Api\OrderApi\ecommerce.sharedLibrary\obj\Debug\net8.0\ecommerce.sharedLibrary.sourcelink.json
+C:\Users\ShardulC\Desktop\Order Api\OrderApi\ecommerce.sharedLibrary\obj\Debug\net8.0\ecommerce.sharedLibrary.dll
+C:\Users\ShardulC\Desktop\Order Api\OrderApi\ecommerce.sharedLibrary\obj\Debug\net8.0\refint\ecommerce.sharedLibrary.dll
+C:\Users\ShardulC\Desktop\Order Api\OrderApi\ecommerce.sharedLibrary\obj\Debug\net8.0\ecommerce.sharedLibrary.pdb
+C:\Users\ShardulC\Desktop\Order Api\OrderApi\ecommerce.sharedLibrary\obj\Debug\net8.0\ecommerce.sharedLibrary.genruntimeconfig.cache
+C:\Users\ShardulC\Desktop\Order Api\OrderApi\ecommerce.sharedLibrary\obj\Debug\net8.0\ref\ecommerce.sharedLibrary.dll

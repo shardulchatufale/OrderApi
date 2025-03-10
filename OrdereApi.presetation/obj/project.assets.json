@@ -7046,8 +7046,8 @@
     },
     "ecommerce.sharedLibrary/1.0.0": {
       "type": "project",
-      "path": "../../../Ecommerse wesite/DemoECommerce.SharedLibrarySolution/ecommerce.sharedLibrary/ecommerce.sharedLibrary.csproj",
-      "msbuildProject": "../../../Ecommerse wesite/DemoECommerce.SharedLibrarySolution/ecommerce.sharedLibrary/ecommerce.sharedLibrary.csproj"
+      "path": "../ecommerce.sharedLibrary/ecommerce.sharedLibrary.csproj",
+      "msbuildProject": "../ecommerce.sharedLibrary/ecommerce.sharedLibrary.csproj"
     },
     "OrderApi.Application/1.0.0": {
       "type": "project",

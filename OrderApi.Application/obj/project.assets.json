@@ -4703,8 +4703,8 @@
     },
     "ecommerce.sharedLibrary/1.0.0": {
       "type": "project",
-      "path": "../../../Ecommerse wesite/DemoECommerce.SharedLibrarySolution/ecommerce.sharedLibrary/ecommerce.sharedLibrary.csproj",
-      "msbuildProject": "../../../Ecommerse wesite/DemoECommerce.SharedLibrarySolution/ecommerce.sharedLibrary/ecommerce.sharedLibrary.csproj"
+      "path": "../ecommerce.sharedLibrary/ecommerce.sharedLibrary.csproj",
+      "msbuildProject": "../ecommerce.sharedLibrary/ecommerce.sharedLibrary.csproj"
     },
     "OrderApi.Domain/1.0.0": {
       "type": "project",
@@ -4754,8 +4754,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ShardulC\\Desktop\\Ecommerse wesite\\DemoECommerce.SharedLibrarySolution\\ecommerce.sharedLibrary\\ecommerce.sharedLibrary.csproj": {
-              "projectPath": "C:\\Users\\ShardulC\\Desktop\\Ecommerse wesite\\DemoECommerce.SharedLibrarySolution\\ecommerce.sharedLibrary\\ecommerce.sharedLibrary.csproj"
+            "C:\\Users\\ShardulC\\Desktop\\Order Api\\OrderApi\\ecommerce.sharedLibrary\\ecommerce.sharedLibrary.csproj": {
+              "projectPath": "C:\\Users\\ShardulC\\Desktop\\Order Api\\OrderApi\\ecommerce.sharedLibrary\\ecommerce.sharedLibrary.csproj"
             },
             "C:\\Users\\ShardulC\\Desktop\\Order Api\\OrderApi\\OrderApi.Domain\\OrderApi.Domain.csproj": {
               "projectPath": "C:\\Users\\ShardulC\\Desktop\\Order Api\\OrderApi\\OrderApi.Domain\\OrderApi.Domain.csproj"
